@@ -1,0 +1,38 @@
+{
+  "name": "krakentechno.com",
+  "short_name": "KrakenTechnoBlog",
+  "start_url": "https://blog.krakentechno.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Where to Share Blogger Tutorials",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s48/fvc-kt.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s72/fvc-kt.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s96/fvc-kt.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s144/fvc-kt.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s168/fvc-kt.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s192/fvc-kt.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-ERmMwqz8PTg/XJEIihR3s5I/AAAAAAAAAvM/VAOdaVXrcsQ6JYZUIh38OROtk0udw9BRQCLcBGAs/s512/fvc-kt.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
